@@ -35,19 +35,6 @@ Full-Stack Engineer specializing in modern JavaScript/TypeScript ecosystems, hig
 
 ---
 
-## Featured Architectures
-
-| Project | Description | Primary Tech Stack | Repository |
-|---|---|---|---|
-| **StorePulse** | E-Commerce Analytics & Inventory Engine | React 18, TypeScript, Vite, Express, SQLite | [CodeRohitWeb/store-pulse](https://github.com/CodeRohitWeb/store-pulse) |
-| **DevMatrix** | Developer Portfolio & Code Content Hub | Node.js MVC, Express, Mongoose, MongoDB | [CodeRohitWeb/dev-matrix](https://github.com/CodeRohitWeb/dev-matrix) |
-| **FlowKanban** | Agile Sprint Tracking & Kanban Board | Vue 3, Pinia, Vue Router, Express, SQLite | [CodeRohitWeb/flow-kanban](https://github.com/CodeRohitWeb/flow-kanban) |
-| **AssetVault API** | Cloud Asset Storage Microservice | Node.js (ESM), Fastify/Express, Redis Cache | [CodeRohitWeb/asset-vault-api](https://github.com/CodeRohitWeb/asset-vault-api) |
-| **LearnSpace** | Interactive Video LMS Platform | SvelteKit, Svelte 4, Express, SQLite | [CodeRohitWeb/learn-space](https://github.com/CodeRohitWeb/learn-space) |
-| **OpsSentinel** | Server Telemetry & Incident Dashboard | Python Flask, Node.js Agent, Chart.js | [CodeRohitWeb/ops-sentinel](https://github.com/CodeRohitWeb/ops-sentinel) |
-
----
-
 ## Engineering Overview
 
 ```
