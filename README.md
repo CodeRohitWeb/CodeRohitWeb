@@ -50,15 +50,6 @@ Full-Stack Engineer specializing in modern JavaScript/TypeScript ecosystems, hig
 
 ---
 
-## Repository Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CodeRohitWeb&show_icons=true&theme=dark" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeRohitWeb&layout=compact&theme=dark" alt="Top Languages" width="48%" />
-</p>
-
----
-
 ## Contact & Profile
 
 - **GitHub Profile**: [https://github.com/CodeRohitWeb](https://github.com/CodeRohitWeb)
